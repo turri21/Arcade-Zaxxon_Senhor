@@ -1,3 +1,8 @@
+-=(Zaxxon_Senhor notes)=-
+
+Tested: Working Video 720p, 1080p & Sound
+
+___
 # [Arcade: Zaxxon](https://www.system16.com/hardware.php?id=689) port to [MiSTer](https://github.com/MiSTer-devel/Main_MiSTer/wiki)
 
 MiSTer port by Dar (darfpga@aol.fr - sourceforge/darfpga)
